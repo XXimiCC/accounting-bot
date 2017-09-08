@@ -1,0 +1,27 @@
+{
+  "name": "play-news-bot",
+  "version": "1.0.0",
+  "description": "Game news bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XXimiCC/GameNewsBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XXimiCC/GameNewsBot/issues"
+  },
+  "homepage": "https://github.com/XXimiCC/GameNewsBot#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.9",
+    "node-telegram-bot-api": "^0.28.0",
+    "telegram-node-bot": "^4.0.5",
+    "validator": "^8.1.0"
+  }
+}
